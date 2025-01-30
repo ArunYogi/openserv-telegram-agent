@@ -1,4 +1,4 @@
-# Agent Starter
+# Telegram Agent (OpenServ)
 
 A starter project to help you get started with [OpenServ Labs SDK](https://github.com/openserv-labs/sdk) - a powerful TypeScript framework for building non-deterministic AI agents with advanced cognitive capabilities.
 
